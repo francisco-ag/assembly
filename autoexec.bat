@@ -1,0 +1,5 @@
+@ECHO OFF
+MOUNT C C:\DOSGAMES
+C:
+CLS
+ECHO Hello world...
